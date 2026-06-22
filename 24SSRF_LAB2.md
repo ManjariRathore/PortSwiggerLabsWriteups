@@ -1,5 +1,4 @@
-# Title of Issue
-Basic SSRF against another back-end system
+# Basic SSRF against another back-end system
 
 ## Description
 The stock check feature makes server-side HTTP requests to a user-controlled URL. By probing the internal
